@@ -1,0 +1,16 @@
+select distinct table_name from information_schema.tables where TABLE_NAME = 'customer';
+select * from customer;
+select distinct table_name from information_schema.tables where TABLE_NAME = 'employee';
+select * from employee;
+select distinct table_name from information_schema.tables where TABLE_NAME = 'inventory';
+select * from inventory;
+select distinct table_name from information_schema.tables where TABLE_NAME = 'manager';
+select * from manager;
+select distinct table_name from information_schema.tables where TABLE_NAME = 'outlet';
+select * from outlet;
+select distinct table_name from information_schema.tables where TABLE_NAME = 'product';
+select * from product;
+select distinct table_name from information_schema.tables where TABLE_NAME = 'returns';
+select * from returns;
+select distinct table_name from information_schema.tables where TABLE_NAME = 'sales';
+select * from sales;
