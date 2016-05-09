@@ -1,7 +1,6 @@
 # 455-Project
-Music Outlet Database
 
-**Tuckers Music Oulets is a database project created for a database management class (CSC 455, UNCW, Spring 2016).**
+**Tuckers Music Oulets is a database project designed to mimic an employee's work screen created for a database management class (CSC 455, UNCW, Spring 2016).**
 
 *By Darryl Papke, Sean Barton, Brandyn Deffinbaugh*
 
