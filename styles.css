@@ -1,0 +1,73 @@
+.header {
+    margin: auto;
+    width: 50%;
+    border: 3px solid #F2E207;
+    padding: 5px;
+    font-variant: small-caps;
+}
+.center {
+    text-align: center;
+    color: white;
+}
+
+.main {
+    margin: auto;
+    font-variant: small-caps;
+    font-size: 150%;
+    border: 2px solid #F2E207;
+    padding: 5px;
+    width: 30%;
+}
+
+.info {
+    margin: auto;
+    font-size: 110%;
+    border: 2px solid #F2E207;
+    padding: 5px;
+    width: 30%;
+}
+
+.review {
+	text-align: left;
+    margin: auto;
+    font-size: 110%;
+    border: 2px solid #F2E207;
+    padding: 5px;
+    width: 30%;
+}
+
+input[type=regular] {
+    background-color: #F2E207;
+    color: teal;
+    padding: 16px 32px;
+    text-decoration: underline;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-size: 110%;
+    text-align: center;
+    border-radius: 8px;
+    border: 2px solid white;
+}
+
+input[type=regular]:hover {background-color: white}
+
+table {
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover{
+     background-color: teal;
+     color: white;
+}
+
+th {
+    background-color: teal;
+    color: white;
+}
