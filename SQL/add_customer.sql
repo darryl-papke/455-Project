@@ -9,7 +9,7 @@ DELIMITER $$
 
 CREATE PROCEDURE AddCustomer(
 	IN c_name		VARCHAR(20),
-	IN c_address	VARCHAR(45),
+	IN c_address		VARCHAR(45),
 	IN c_city		VARCHAR(20),
 	IN c_state		VARCHAR(2),
 	IN c_zip		INT,
