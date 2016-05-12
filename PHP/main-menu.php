@@ -14,13 +14,11 @@
 
 <body>
 
-
     <div class="header">
         <div class="center">
             <h1>Tucker's Music Outlets</h1>
         </div>
     </div>
-
 
     <br>
 
