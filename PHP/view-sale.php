@@ -14,7 +14,7 @@
 
     <style>
         body {
-            background-color: teal;
+            background-color: red;
         }
         select {
             padding: 16px 20px;
